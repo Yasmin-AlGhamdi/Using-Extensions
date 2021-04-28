@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\StaticCode\StaticCode\bin\Debug\netcoreapp3.1\StaticCode.exe
+C:\Users\Yasmin\source\repos\StaticCode\StaticCode\bin\Debug\netcoreapp3.1\StaticCode.deps.json
+C:\Users\Yasmin\source\repos\StaticCode\StaticCode\bin\Debug\netcoreapp3.1\StaticCode.runtimeconfig.json
+C:\Users\Yasmin\source\repos\StaticCode\StaticCode\bin\Debug\netcoreapp3.1\StaticCode.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\StaticCode\StaticCode\bin\Debug\netcoreapp3.1\StaticCode.dll
+C:\Users\Yasmin\source\repos\StaticCode\StaticCode\bin\Debug\netcoreapp3.1\StaticCode.pdb
+C:\Users\Yasmin\source\repos\StaticCode\StaticCode\obj\Debug\netcoreapp3.1\StaticCode.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\StaticCode\StaticCode\obj\Debug\netcoreapp3.1\StaticCode.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\StaticCode\StaticCode\obj\Debug\netcoreapp3.1\StaticCode.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\StaticCode\StaticCode\obj\Debug\netcoreapp3.1\StaticCode.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\StaticCode\StaticCode\obj\Debug\netcoreapp3.1\StaticCode.dll
+C:\Users\Yasmin\source\repos\StaticCode\StaticCode\obj\Debug\netcoreapp3.1\StaticCode.pdb
+C:\Users\Yasmin\source\repos\StaticCode\StaticCode\obj\Debug\netcoreapp3.1\StaticCode.genruntimeconfig.cache
